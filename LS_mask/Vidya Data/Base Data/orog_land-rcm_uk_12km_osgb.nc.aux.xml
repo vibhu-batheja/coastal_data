@@ -1,0 +1,14 @@
+<PAMDataset>
+  <Subdataset name="surface_altitude">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">675.52752685547</MDI>
+          <MDI key="STATISTICS_MEAN">131.83940760597</MDI>
+          <MDI key="STATISTICS_MINIMUM">-2.2843084335327</MDI>
+          <MDI key="STATISTICS_STDDEV">105.46671271354</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
